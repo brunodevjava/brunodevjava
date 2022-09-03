@@ -18,7 +18,7 @@
   <img align="center" alt="Bruno-TYPESCRIPT" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Bruno-GIT" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Bruno-IONIC" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
-    <img align="center" alt="Bruno-IONIC" height="50" width="120" src="https://miro.medium.com/max/848/1*278ccGR72lK73_1l0BuKUw.png">
+    <img align="center" alt="Bruno-IONIC" height="50" width="100" src="https://camo.githubusercontent.com/c108a6fa10a6a4c0e93d37b780e003582c15f461365272337307e56ac700012f/68747470733a2f2f64656570616b2d74657273652e6769746875622e696f2f6173736574732f696d616765732f726573756d652f646174612f6a6173706572736f66742e706e67">
 
 <div>
 
@@ -27,10 +27,3 @@
 <div>
   <a href = "mailto:brunodeveloper2022@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
- 
- 
-## Licença 
-
-The [MIT License]() (MIT)
-
-Copyright :copyright: 2022 - ProjectJava
