@@ -1,6 +1,6 @@
 ## Olá, eu sou o Bruno :)
 
- Um desenvolvedor apaixonado por Back-end ...
+ Um desenvolvedor apaixonado por Back-End ...
 
 
  <div>
