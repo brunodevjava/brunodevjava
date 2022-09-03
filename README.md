@@ -18,7 +18,7 @@
   <img align="center" alt="Bruno-TYPESCRIPT" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Bruno-GIT" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Bruno-IONIC" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
-    <img align="center" alt="Bruno-IONIC" height="50" width="300" src="https://miro.medium.com/max/848/1*278ccGR72lK73_1l0BuKUw.png">
+    <img align="center" alt="Bruno-IONIC" height="120" width="50" src="https://miro.medium.com/max/848/1*278ccGR72lK73_1l0BuKUw.png">
 
 <div>
 
