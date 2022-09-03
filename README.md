@@ -1,6 +1,6 @@
 ## Olá, eu sou o Bruno :)
 
-👩‍💻 Trabalho com Backend
+ Um desenvolvedor apaixonado por Back-end ...
 
 
  <div>
@@ -27,3 +27,4 @@
 <div>
   <a href = "mailto:brunodeveloper2022@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+<div><a>Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema.</a></div>
