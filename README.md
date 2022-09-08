@@ -6,7 +6,7 @@
  <div>
   <a href="https://github.com/brunodevjava">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunodevjava&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-        <img height="100em" src="https://raw.githubusercontent.com/brunodevjava/brunodevjava/main/code.gif" style="
+        <img height="100em" src="code.gif" style="
         border-radius: 7px;
     ">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodevjava&layout=compact&langs_count=7&theme=dark" />
