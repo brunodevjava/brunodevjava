@@ -3,13 +3,18 @@
  Um desenvolvedor apaixonado por Back-End ...
 
 
- <div>
+<div class="cardHeader" style="
+display: flex;
+justify-content: space-around;
+">
+     <img src="https://user-images.githubusercontent.com/112727289/189242402-d99915d5-21a9-4c2d-b8c2-b4ab7098e20e.gif" alt="code" height="178em" data-target="animated-image.originalImage" style="    margin-left: 10px;
+border-radius: 5px;"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunodevjava&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true">
+</div>
   <a href="https://github.com/brunodevjava">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunodevjava&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-<img height="178em" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="
-        border-radius: 7px;
-    ">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodevjava&layout=compact&langs_count=7&theme=dark" />
+   <div>
+
+
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodevjava&layout=compact&langs_count=7&theme=dark" />
 </div>
 
 <div style="display: inline_block"><br>
@@ -30,6 +35,6 @@
 <div>
   <a href = "mailto:brunodeveloper2022@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
- 
+
 ![Snake animation](https://github.com/brunodevjava/brunodevjava/blob/output/github-contribution-grid-snake.svg)
 
