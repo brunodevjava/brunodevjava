@@ -37,4 +37,3 @@ border-radius: 5px;"><img height="180em" src="https://github-readme-stats.vercel
 </div>
 
 ![Snake animation](https://github.com/brunodevjava/brunodevjava/blob/output/github-contribution-grid-snake.svg)
-
