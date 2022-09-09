@@ -2,19 +2,12 @@
 
  Um desenvolvedor apaixonado por Back-End ...
 
-
-<div class="cardHeader" style="
-display: flex;
-justify-content: space-around;
-">
-     <img src="https://user-images.githubusercontent.com/112727289/189242402-d99915d5-21a9-4c2d-b8c2-b4ab7098e20e.gif" alt="code" height="178em" data-target="animated-image.originalImage" style="    max-height: 178px;    margin-left: 10px;
-border-radius: 5px;"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunodevjava&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true">
-</div>
   <a href="https://github.com/brunodevjava">
    <div>
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=brunodevjava&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true">
+</div>
 
-
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodevjava&layout=compact&langs_count=7&theme=dark" />
+   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodevjava&layout=compact&langs_count=7&theme=dark" />
 </div>
 
 <div style="display: inline_block"><br>
